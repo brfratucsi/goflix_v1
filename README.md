@@ -1,1 +1,3 @@
-# goflix_v1
+# Projeto goflix v1
+
+#### Os serviços de streaming estão cada vez mais em abundância na internet, se tratando do streaming de vídeos, a quantidade de plataformas já é vasta e as vezes ficamos perdidos para saber onde determinado filme ou serie se encontra. O projeto GoFlix tem como objetivo o desenvolvimento de um aplicativo de smartphone que traz os principais lançamentos dos principais serviços de streaming em um só lugar. Para o projeto foi desenvolvido um POC (Proof Of Concept) da aplicação, utilizando banco de dados com a linguagem PHP, HTML e o framework Materialize. Na aplicação foi possível criar usuários, navegar na lista com todos os conteúdos cadastrados no sistema, realizar pesquisa, acessar perfil e adicionar itens aos favoritos.
